@@ -95,3 +95,5 @@ defaults:
       lang: "en"
       redirect_to:
         - https://lab.github.com
+
+theme: jekyll-theme-cayman
